@@ -1,0 +1,21 @@
+1. Accession Number (UT) -> paperId
+2. 1st Document Type -> docType
+3. keywords (missing 53%)
+4. keywords plus (missing 16%)
+5. 1st subject sub-heading missing 8%
+6. 1st subkect category (traditional) 3%
+7. subject category (extended) 1%
+8 category heading 1 %
+9. abstract missing 1%
+10 published year 0%
+11 DOI 3%
+12 source title
+13 title
+
+omit:
+- Database
+- Editions
+- 2nd docType
+- 3rd docType
+- all doc types
+- primary language 
